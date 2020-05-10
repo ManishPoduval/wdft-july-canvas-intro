@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+}
+
+.row {
+  margin: 10px 0;
+}
+
+.row div[class*='col'] {
+  padding: 10px;
+  background: paleturquoise;
+  text-align: center;
+  border: 1px solid;
+}
+
+.container {
+  margin-bottom: 200px;
+}
